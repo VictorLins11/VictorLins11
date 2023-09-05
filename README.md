@@ -1,4 +1,12 @@
-<h1> 👋 Hi! My name is Victor. </h1>
+div class="hero-img-section">
+    <img src="img/banner.png"  align="right" alt="Coding">
+</div>
+
+*.*
+
+<div class="header-section" style="height:10%;width: 100%;" >
+
+<h2> 👋 Hi! My name is Victor Lins. </h2>
 
 <div class="hero-top-section"">
  <div class="hero-top-txt">
