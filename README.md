@@ -1,4 +1,4 @@
-div class="hero-img-section">
+div class="img">
     <img src="img/banner.png"  align="right" alt="Coding">
 </div>
 
