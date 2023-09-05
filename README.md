@@ -31,7 +31,7 @@
         <p >
             <img align="center" alt="Victor-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
             <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-            <img align="center" alt="Victor-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
+            <img align="center" alt="Victor-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodeJS/nodeJS-original.svg">
         </p>
     </div>
     <div class="tools-section">
