@@ -2,8 +2,6 @@
     <img src="img/Banner.png"  align="center" alt="Coding">
 </div>
 
-<br>
-
 <h1> 👋 Hi! My name is Victor Lins. </h1>
 
 <div class="hero-top-section"">
