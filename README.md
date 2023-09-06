@@ -2,7 +2,7 @@
     <img src="img/Banner.png"  align="right" alt="Coding">
 </div>
 
-<h1> 👋 Hi! My name is Victor Lins. </h1>
+<h2> 👋 Hi! My name is Victor Lins. </h2>
 
 <div class="hero-top-section"">
  <div class="hero-top-txt">
