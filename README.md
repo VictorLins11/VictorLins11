@@ -1,5 +1,5 @@
 <div class="hero-img-section">
-    <img src="img/Banner.png"  align="center" alt="Coding">
+    <img src="img/banner.png"  align="center" alt="Coding">
 </div>
 
 <h2> 👋 Hi! My name is Victor Lins, a 26-year-old aspiring front-end developer. From Brazil PE </h2>
