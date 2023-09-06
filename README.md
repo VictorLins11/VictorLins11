@@ -1,3 +1,5 @@
+<img src="img/banner.png"  align="right" alt="Coding">
+
 <h1> 👋 Hi! My name is Victor Lins. </h1>
 
 <div class="hero-top-section"">
