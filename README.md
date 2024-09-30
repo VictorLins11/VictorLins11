@@ -2,12 +2,12 @@
     <img src="img/banner.png"  align="center" alt="Coding">
 </div>
 
-<h2> 👋 Hi! My name is Victor Lins, a 26-year-old aspiring front-end developer. From Brazil PE </h2>
+<h2> 👋 Hi! My name is Victor Lins, a 28-year-old aspiring front-end developer. From Brazil PE </h2>
 
-<div class="hero-top-section"">
+<div class="hero-top-section">
  <div class="hero-top-txt">
  <p>
- I have a strong passion for front-end development and love creating beautiful, interactive user interfaces. My expertise lies in HTML and CSS, where I have honed my skills to craft visually appealing and responsive web pages. I strive to create seamless user experiences by leveraging the power of these core technologies.
+ I have a strong passion for front-end development and love creating beautiful, interactive user interfaces. My expertise lies in HTML, CSS and JavaScript, where I have honed my skills to craft visually appealing and responsive web pages. I strive to create seamless user experiences by leveraging the power of these core technologies.
  </p>
  </div>
 
@@ -33,22 +33,26 @@
     <div class="framework-section">
         <h3>Frameworks :</h3>
         <p >
-            <img align="center" alt="Victor-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
             <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+            <img align="center" alt="Victor-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+            <img align="center" alt="Victor-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
         </p>
     </div>
     <div class="tools-section">
         <h3 align="left">Tools :</h3>
         <p align="left">  
-            <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+            <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+            </a>
+            <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio code" width="40" height="40"/> 
+            </a>   
+            <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
             </a>  
             <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-            </a>  
-            <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-                <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-            </a> 
+            </a>   
         </p>
     </div>
 </div>
