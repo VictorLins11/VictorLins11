@@ -23,36 +23,31 @@
     <div class="language-section">
         <h3 align="left">Languages :</h3>
         <p aligh="left">
-         <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-         <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-         <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-         <img align="center" alt="Victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-         <img align="center" alt="Victor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+            <img src="https://skillicons.dev/icons?i=html" />
+            <img src="https://skillicons.dev/icons?i=css" />
+            <img src="https://skillicons.dev/icons?i=js" /> 
+            <img src="https://skillicons.dev/icons?i=ts" />
+            <img src="https://skillicons.dev/icons?i=java" />
         </p>
     </div>
     <div class="framework-section">
         <h3>Frameworks :</h3>
         <p >
-            <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-            <img align="center" alt="Victor-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-            <img align="center" alt="Victor-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+            <img src="https://skillicons.dev/icons?i=react" />
+            <img src="https://skillicons.dev/icons?i=bootstrap" />
+            <img src="https://skillicons.dev/icons?i=nestjs" />
+            <img src="https://skillicons.dev/icons?i=next" />
         </p>
     </div>
     <div class="tools-section">
         <h3 align="left">Tools :</h3>
         <p align="left">  
-            <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
-            </a>
-            <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio code" width="40" height="40"/> 
-            </a>   
-            <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-            </a>  
-            <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-            </a>   
+            <img src="https://skillicons.dev/icons?i=nodejs" />
+            <img src="https://skillicons.dev/icons?i=vscode" />
+            <img src="https://skillicons.dev/icons?i=git" />
+            <img src="https://skillicons.dev/icons?i=github" />
+            <img src="https://skillicons.dev/icons?i=vercel" />
+            <img src="https://skillicons.dev/icons?i=linux" />
         </p>
     </div>
 </div>
