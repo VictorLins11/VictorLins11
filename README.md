@@ -52,7 +52,7 @@
     </div>
 </div>
 
-<h2 align="left"><b>GitHub Stats</b></h2>
+<h2 align="left"><b>GitHub Stats:</b></h2>
 
 [<img height="165em" src="https://github-readme-stats.vercel.app/api?username=VictorLins11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />](https://github.com/VictorLins11)
 [<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLins11&layout=compact&langs_count=7&theme=dracula"/>](https://github.com/VictorLins11)
